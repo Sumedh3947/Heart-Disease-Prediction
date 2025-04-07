@@ -9,7 +9,7 @@ This project is a machine learning-based approach to predict whether a person ha
 
 ## 📊 Dataset
 
-The dataset used in this project includes features such as:
+The dataset which i have used in this project belongs to UCI which contains the following features:
 
 - Age
 - Sex
