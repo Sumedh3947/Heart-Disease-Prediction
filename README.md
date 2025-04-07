@@ -1,12 +1,11 @@
 # 🫀 Heart Disease Classification
 
-This project is a machine learning-based approach to predict whether a person has heart disease based on several clinical features. It uses classification algorithms and evaluates their performance using metrics like ROC AUC.
+This project is a machine learning-based approach to predict whether a person has heart disease based on several clinical features.
 
 ## 📁 Project Structure
 
 - `heart-disease-classification.ipynb`: Main Jupyter Notebook containing data preprocessing, model training, evaluation, and visualization.
 - `README.md`: Project overview and setup instructions.
-- (Optional) `requirements.txt`: Python dependencies.
 
 ## 📊 Dataset
 
